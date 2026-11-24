@@ -82,6 +82,11 @@ section {
   font-size: 0.9375rem;
 }
 
+.education-entries {
+  display: grid;
+  gap: 1rem;
+}
+
 a {
   color: var(--accent);
   text-underline-offset: 0.2em;
